@@ -1,3 +1,3 @@
-Some real uci datasets taken from
+Some real uci datasets taken from the UC Irvine Machine Learning Repository
 
-DuBois, Christopher L. & Smyth, P. (2008). UCI Network Data Repository [http://networkdata.ics.uci.edu]. Irvine, CA: University of California, School of Information and Computer Sciences.
+https://archive.ics.uci.edu/ml/index.php
