@@ -8,6 +8,8 @@ Colab links:
 
 Polynomial curve fitting notebook
 (to fill in gaps) https://colab.research.google.com/drive/1HgDy9fIyNxIDmgSchNEYszoIIeASGxwz?usp=sharing
+
+
 (complete) https://colab.research.google.com/drive/16-Fnd6367pFGQJREDYwXpqMoFAzuaHLg?usp=sharing
 
 Neural Network notebook
