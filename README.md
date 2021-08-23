@@ -6,7 +6,8 @@ The originals can be found here: https://gitlab.informatik.uni-halle.de/apyae/PR
 
 Colab links:
 
-Polynomial curve fitting notebook
+Polynomial curve fitting notebooks
+
 (to fill in gaps) https://colab.research.google.com/drive/1HgDy9fIyNxIDmgSchNEYszoIIeASGxwz?usp=sharing
 
 
