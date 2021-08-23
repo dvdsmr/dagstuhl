@@ -14,7 +14,7 @@ Polynomial curve fitting notebooks
 (complete) https://colab.research.google.com/drive/16-Fnd6367pFGQJREDYwXpqMoFAzuaHLg?usp=sharing
 
 Neural Network notebook
-https://colab.research.google.com/drive/1uj_Fcdg1PSDwZitsuGLC3bRqR66eXJcr?usp=sharing
+https://colab.research.google.com/drive/1lpuWe7cxQPXH5e2BASGX8el7wRJE19Ni?usp=sharing
 
 Gaussian Process notebook
 
